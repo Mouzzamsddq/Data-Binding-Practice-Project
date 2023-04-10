@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataBindingPractice</string>
+    <string name="dummy_quote_title">Dummy quote title</string>
+    <string name="dummy_quote_text">dummy quote text</string>
+    <string name="data_binding_with_live_data_and_view_model">Data Binding with Live Data and View Model</string>
+    <string name="update_quote">Update Quote</string>
+    <string name="dummy_text">Dummy text</string>
+    <string name="enter_your_quotes_here">Enter your quotes here:-</string>
+    <string name="binding_adapter_tutorial">Binding Adapter Tutorial</string>
+</resources>
